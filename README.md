@@ -1,1 +1,1 @@
-node
+# node-red-template
